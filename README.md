@@ -13,11 +13,12 @@ Repositorio para el control de versiones de los ítems de configuración de la m
 
 ### Tercer nivel 
 - Apuntes.
-- Entregable: practicos relacionados al subtema.
+- Trabajos prácticos.
+- Presentaciones.
 
 ### Cuarto nivel 
-- Subtemas
-- Notas de clase
+- Subtemas.
+- Notas de clase.
 
 ## Criterio de línea base 
 Se define una nueva línea base por cada parcial realizado.
