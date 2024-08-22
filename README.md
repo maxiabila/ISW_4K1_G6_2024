@@ -17,18 +17,10 @@ Repositorio para el control de versiones de los ítems de configuración de la m
 
 ### Cuarto nivel 
 - Subtemas
-- Minutas
-- Etc.
+- Notas de clase
 
-## [Items de configuración](itemsDeConfiguracion.md)
-
-## [Glosario](glosario.md)
-
-## Criterio de línea base inicial
-Se define la línea base inicial con un listado de los items de configuración, el glosario y la estructura del repositorio.
-
-## Criterio de línea base general
-Se define una nueva línea base por cada tema presentado en clases y sus respectivas actividades completadas.
+## Criterio de línea base 
+Se define una nueva línea base por cada parcial realizado.
 
 ## Integrates
 |Alumno | Legajo|
