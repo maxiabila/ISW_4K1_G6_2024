@@ -1,5 +1,5 @@
 # ISW_G6_2024
-Repository for version control of configuration items from the "Ingeniería y Calidad de Software" study 4K1 2024. Owner of this repository is group 6.
+Repositorio para el control de versiones de los ítems de configuración de la materia "Ingeniería y Calidad de Software" del Grupo 6 del 4K1, año 2024.
 
 ## Estructura de repositorio
 
