@@ -20,6 +20,10 @@ Repositorio para el control de versiones de los ítems de configuración de la m
 - Subtemas.
 - Notas de clase.
 
+## [Items de configuración](itemsDeConfiguracion.md)
+
+## [Glosario](glosario.md)
+
 ## Criterio de línea base 
 Se define una nueva línea base por cada parcial realizado.
 
@@ -31,7 +35,7 @@ Se define una nueva línea base por cada parcial realizado.
 | Benjamin Ian | 80738|
 | Cornejo Francisco | 90297|
 | Basilieri Julian Franco | 89927|
-| Montenegro Alfaro, Emilia Belén | 89679|
+| Montenegro Alfaro Emilia Belén | 89679|
 | Palazzolo Tomás Agustin | 90305|
 
 Commit de prueba
