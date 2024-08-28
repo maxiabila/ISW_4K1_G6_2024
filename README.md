@@ -33,7 +33,7 @@ Repositorio para el control de versiones de los ítems de configuración de la m
 
 Se define una nueva línea base por cada parcial realizado.
 
-## Integrates
+## Integrantes
 
 | Alumno                         | Legajo |
 | ------------------------------ | ------ |
