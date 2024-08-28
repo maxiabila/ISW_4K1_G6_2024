@@ -37,6 +37,3 @@ Se define una nueva línea base por cada parcial realizado.
 | Basilieri Julian Franco | 89927|
 | Montenegro Alfaro Emilia Belén | 89679|
 | Palazzolo Tomás Agustin | 90305|
-
-Commit de prueba
-Commit de prueba 2
