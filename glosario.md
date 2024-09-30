@@ -14,4 +14,3 @@
 |PP | Proceso y Producto|
 |Res | Resumen|
 |MVP | Mínimo Producto Viable|
-|TP | Trabajo Práctico|
