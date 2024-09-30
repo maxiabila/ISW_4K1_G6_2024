@@ -17,13 +17,15 @@ Repositorio para el control de versiones de los ítems de configuración de la m
 ### Tercer nivel
 
 - Apuntes.
-- Trabajos prácticos.
+- Entregables.
 - Presentaciones.
+- Resúmenes
+- Bibliografía
+- Imágenes de clase
 
 ### Cuarto nivel
 
-- Subtemas.
-- Notas de clase.
+- Archivos correspondientes.
 
 ## [Items de configuración](itemsDeConfiguracion.md)
 
