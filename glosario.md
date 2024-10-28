@@ -14,3 +14,4 @@
 |PP | Proceso y Producto|
 |Res | Resumen|
 |MVP | Mínimo Producto Viable|
+|PPQA | Aseguramiento de Calidad de Proceso y de Producto|
