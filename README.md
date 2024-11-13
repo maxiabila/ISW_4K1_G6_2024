@@ -9,6 +9,7 @@ Repositorio para el control de versiones de los ítems de configuración de la m
 - Carpetas por unidad.
 - Archivo de glosario.
 - Archivo de listado de ítems de configuración.
+- TPs de investigación
 
 ### Segundo nivel
 
