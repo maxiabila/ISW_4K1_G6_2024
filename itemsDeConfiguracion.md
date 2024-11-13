@@ -10,3 +10,4 @@
 | Entregables | TP[número de TP]_[parte del TP ].pdf |     | .pdf | /U[número unidad]_[abreviatura nombre unidad]/[tema]/Entregable
 | Resúmenes | Res_[tema].pdf |     | .pdf | /U[número unidad]_[abreviatura nombre unidad]/[tema]/Resumen
 | Prácticas | [subtema]_[ejercicio]_[tema].pdf |     | .pdf | /U[número unidad]_[abreviatura nombre unidad]/[tema]/Practicas
+| Trabajos Prácticos de Investigación | [tipo de trabajo]_[tema del trabajo]_[subtema del trabajo].pdf |     | .pdf | /    |
